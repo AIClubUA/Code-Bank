@@ -1,0 +1,8 @@
+Text files are very wild cardy.
+Somtimes they are structured
+Sometimes not, but regardless of what is in them,
+they are all splittable by newline characters
+
+Dealing with unstructured messes like this is a big part of Natural Language Processing
+
+
